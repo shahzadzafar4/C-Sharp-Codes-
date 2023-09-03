@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Different Cars Details by using Access Modifier", "Different Cars Details by using Access Modifier.csproj", "{71073247-C52A-4904-9450-9096024ACFE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71073247-C52A-4904-9450-9096024ACFE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71073247-C52A-4904-9450-9096024ACFE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71073247-C52A-4904-9450-9096024ACFE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71073247-C52A-4904-9450-9096024ACFE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AF31151-0362-4354-AF18-3B2150365AB9}
+	EndGlobalSection
+EndGlobal
