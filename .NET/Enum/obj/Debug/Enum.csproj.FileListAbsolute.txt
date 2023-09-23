@@ -1,0 +1,7 @@
+C:\Users\Shahzad Zafar\Documents\GitHub\C-Sharp-Codes-\.NET\Enum\bin\Debug\Enum.exe.config
+C:\Users\Shahzad Zafar\Documents\GitHub\C-Sharp-Codes-\.NET\Enum\bin\Debug\Enum.exe
+C:\Users\Shahzad Zafar\Documents\GitHub\C-Sharp-Codes-\.NET\Enum\bin\Debug\Enum.pdb
+C:\Users\Shahzad Zafar\Documents\GitHub\C-Sharp-Codes-\.NET\Enum\obj\Debug\Enum.csproj.AssemblyReference.cache
+C:\Users\Shahzad Zafar\Documents\GitHub\C-Sharp-Codes-\.NET\Enum\obj\Debug\Enum.csproj.CoreCompileInputs.cache
+C:\Users\Shahzad Zafar\Documents\GitHub\C-Sharp-Codes-\.NET\Enum\obj\Debug\Enum.exe
+C:\Users\Shahzad Zafar\Documents\GitHub\C-Sharp-Codes-\.NET\Enum\obj\Debug\Enum.pdb
