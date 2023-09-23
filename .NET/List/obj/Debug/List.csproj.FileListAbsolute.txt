@@ -1,0 +1,7 @@
+C:\Users\Shahzad Zafar\Documents\GitHub\C-Sharp-Codes-\.NET\List\bin\Debug\List.exe.config
+C:\Users\Shahzad Zafar\Documents\GitHub\C-Sharp-Codes-\.NET\List\bin\Debug\List.exe
+C:\Users\Shahzad Zafar\Documents\GitHub\C-Sharp-Codes-\.NET\List\bin\Debug\List.pdb
+C:\Users\Shahzad Zafar\Documents\GitHub\C-Sharp-Codes-\.NET\List\obj\Debug\List.csproj.AssemblyReference.cache
+C:\Users\Shahzad Zafar\Documents\GitHub\C-Sharp-Codes-\.NET\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+C:\Users\Shahzad Zafar\Documents\GitHub\C-Sharp-Codes-\.NET\List\obj\Debug\List.exe
+C:\Users\Shahzad Zafar\Documents\GitHub\C-Sharp-Codes-\.NET\List\obj\Debug\List.pdb
