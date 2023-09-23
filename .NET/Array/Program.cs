@@ -17,28 +17,43 @@ namespace Array
             number[2] = 6;
             number[3] = 7;
             number[4] = 8;
+            //  for (int i = 0; i < number.Length; i++) 
+            //  { 
+            // Console.WriteLine(number[i]);
+            //   }
 
-            Console.WriteLine(number);
+            foreach (int num in number)
+            {
+                Console.WriteLine(num);
+            }
             Console.ReadLine();
 
             // method 2
 
             int[] number1 = new int[5] { 45, 85, 66, 74, 88 };
-            Console.WriteLine(number1);
+            for (int i = 0; i < number1.Length; i++)
+            {
+                Console.WriteLine(number1[i]);
+            }
+
             Console.ReadLine();
 
 
             // reverse of an array
-            System.Array.Reverse(number1);
+             // System.Array.Reverse(number1);
 
             // method 3
 
             int[] number2 = { 455, 865, 636, 774, 882, 75856 };
-            Console.WriteLine(number2);
+            for (int i = 0; i < number2.Length; i++)
+            {
+                Console.WriteLine(number2[i]);
+            }
+
             Console.ReadLine();
 
 
-            // jagged array 
+            // jagged array
             int[][] numbers = new int[5][];
             numbers[0] = new int[] { 45, 85, 66, 74, 88, 936 };
             numbers[1] = new int[] { 45, 85, 66, 74 };
@@ -49,7 +64,7 @@ namespace Array
             // assign and retrive a value 
             numbers[2][2] = 4;
 
-            Console.WriteLine(numbers);
+            Console.WriteLine(numbers[4]);
             Console.ReadLine();
 
             // multi dimentional array 
