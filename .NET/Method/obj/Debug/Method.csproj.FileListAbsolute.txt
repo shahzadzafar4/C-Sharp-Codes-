@@ -1,0 +1,7 @@
+C:\Users\Shahzad Zafar\Documents\GitHub\C-Sharp-Codes-\.NET\Method\bin\Debug\Method.exe.config
+C:\Users\Shahzad Zafar\Documents\GitHub\C-Sharp-Codes-\.NET\Method\bin\Debug\Method.exe
+C:\Users\Shahzad Zafar\Documents\GitHub\C-Sharp-Codes-\.NET\Method\bin\Debug\Method.pdb
+C:\Users\Shahzad Zafar\Documents\GitHub\C-Sharp-Codes-\.NET\Method\obj\Debug\Method.csproj.AssemblyReference.cache
+C:\Users\Shahzad Zafar\Documents\GitHub\C-Sharp-Codes-\.NET\Method\obj\Debug\Method.csproj.CoreCompileInputs.cache
+C:\Users\Shahzad Zafar\Documents\GitHub\C-Sharp-Codes-\.NET\Method\obj\Debug\Method.exe
+C:\Users\Shahzad Zafar\Documents\GitHub\C-Sharp-Codes-\.NET\Method\obj\Debug\Method.pdb
