@@ -1,0 +1,15 @@
+C:\Users\ahmed\OneDrive\ASP.Net\NoteBook\NoteBook\bin\Debug\NoteBook.exe.config
+C:\Users\ahmed\OneDrive\ASP.Net\NoteBook\NoteBook\bin\Debug\NoteBook.exe
+C:\Users\ahmed\OneDrive\ASP.Net\NoteBook\NoteBook\bin\Debug\NoteBook.pdb
+C:\Users\ahmed\OneDrive\ASP.Net\NoteBook\NoteBook\obj\Debug\NoteBook.csproj.AssemblyReference.cache
+C:\Users\ahmed\OneDrive\ASP.Net\NoteBook\NoteBook\obj\Debug\NoteBook.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmed\OneDrive\ASP.Net\NoteBook\NoteBook\obj\Debug\NoteBook.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\OneDrive\ASP.Net\NoteBook\NoteBook\obj\Debug\NoteBook.exe
+C:\Users\ahmed\OneDrive\ASP.Net\NoteBook\NoteBook\obj\Debug\NoteBook.pdb
+C:\Users\Shahzad Zafar\Documents\GitHub\C-Sharp-Codes-\.NET\NoteBook\NoteBook\bin\Debug\NoteBook.exe.config
+C:\Users\Shahzad Zafar\Documents\GitHub\C-Sharp-Codes-\.NET\NoteBook\NoteBook\bin\Debug\NoteBook.exe
+C:\Users\Shahzad Zafar\Documents\GitHub\C-Sharp-Codes-\.NET\NoteBook\NoteBook\bin\Debug\NoteBook.pdb
+C:\Users\Shahzad Zafar\Documents\GitHub\C-Sharp-Codes-\.NET\NoteBook\NoteBook\obj\Debug\NoteBook.csproj.AssemblyReference.cache
+C:\Users\Shahzad Zafar\Documents\GitHub\C-Sharp-Codes-\.NET\NoteBook\NoteBook\obj\Debug\NoteBook.csproj.CoreCompileInputs.cache
+C:\Users\Shahzad Zafar\Documents\GitHub\C-Sharp-Codes-\.NET\NoteBook\NoteBook\obj\Debug\NoteBook.exe
+C:\Users\Shahzad Zafar\Documents\GitHub\C-Sharp-Codes-\.NET\NoteBook\NoteBook\obj\Debug\NoteBook.pdb
